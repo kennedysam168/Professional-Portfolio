@@ -14,7 +14,8 @@ body {
     text-align: center;
     margin: auto;
     padding-top: 20px;
-    color: rgb(204, 203, 201);
+    color: honeydew;
+    text-shadow: 4px 4px black;
 }
 
 
@@ -36,7 +37,7 @@ main {
     height: 900px;
     margin: 0px;
     padding: 0px;
-    background: url(DSC03654.JPG) no-repeat center center fixed; 
+    background: url(/Users/samkennedy/Desktop/Professional-Portfolio/wood-ring-GIF.gif) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -91,11 +92,11 @@ a:hover {
 
     .fade-in-text {
     width: 100%;
-    animation: fadeIn linear 8s;
-    -webkit-animation: fadeIn linear 8s;
-    -moz-animation: fadeIn linear 8s;
-    -o-animation: fadeIn linear 8s;
-    -ms-animation: fadeIn linear 8s;
+    animation: fadeIn linear 2s;
+    -webkit-animation: fadeIn linear 2s;
+    -moz-animation: fadeIn linear 2s;
+    -o-animation: fadeIn linear 2s;
+    -ms-animation: fadeIn linear 2s;
   }
   
   @keyframes fadeIn {
@@ -126,11 +127,11 @@ a:hover {
 
   
   .fade-in-image {
-    animation: fadeIn 8s;
-    -webkit-animation: fadeIn 8s;
-    -moz-animation: fadeIn 8s;
-    -o-animation: fadeIn 8s;
-    -ms-animation: fadeIn 8s;
+    animation: fadeIn 4s;
+    -webkit-animation: fadeIn 4s;
+    -moz-animation: fadeIn 4s;
+    -o-animation: fadeIn 4s;
+    -ms-animation: fadeIn 4s;
   }
   @keyframes fadeIn {
     0% {opacity:0;}
